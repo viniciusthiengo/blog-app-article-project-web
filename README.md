@@ -1,8 +1,8 @@
 # Blog App - Account Kit Facebook (Lado Web)
 
-**⚠🚫[DEPRECIADA] a API Account Kit [se tornou obsoleta](https://developers.facebook.com/docs/accountkit?locale=pt_BR) em 9 de Março de 2020.**
+**⚠🚫[DEPRECIADA] A API Account Kit [se tornou obsoleta](https://developers.facebook.com/docs/accountkit?locale=pt_BR) em 9 de Março de 2020.**
 
-Projeto Web do artigo [Como Implementar o Account Kit Login em Seu Aplicativo Android](https://www.thiengo.com.br/como-implementar-o-account-kit-login-em-seu-aplicativo-android#title-09) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
+Projeto Web do artigo [Como Implementar o Account Kit Login em Seu Aplicativo Android](https://www.thiengo.com.br/como-implementar-o-account-kit-login-em-seu-aplicativo-android#title-05) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
 Projeto Web de apoio ao projeto Android do artigo citado acima, artigo que discute em detalhes a API Account Kit do Facebook. API que permite a fácil implementação da área de autenticação em aplicativos Android, autenticação por e-mail ou por SMS.
 
